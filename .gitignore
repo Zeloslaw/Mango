@@ -85,7 +85,7 @@ _ReSharper*
 
 # Qt Creator files
 *.pro
-*.pro.user
+*.pro.user*
 
 # General rules
 *.txt

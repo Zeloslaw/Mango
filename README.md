@@ -7,6 +7,6 @@ I built it as I was studying in Germany - even before I start studying Computer 
 
 Mango has the basic features you would expect from a browser: tab management, find in page, basic download manager as well as a few other stuff. I also created a website that's a bit more comprehensive about Mango.
 
-![Mango](http://thomaskeunebroek.fr/static/img/projects/mango/thumbs/Mango-1.png)
+![Mango](static/Mango-1.png)
 
 You can have a look at the dedicated website here: http://thomaskeunebroek.fr/projects/mango/ to grab more information.
